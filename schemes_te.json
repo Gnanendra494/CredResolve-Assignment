@@ -1,0 +1,24 @@
+[
+  {
+    "id": "scheme_01_te",
+    "name": "మాతృశక్తి సహాయ పథకం",
+    "description": "ఆధార రాహిత్య కుటుంబాల్లో పని చేసే తల్లులకి ఆర్థిక బలపరచడం మరియు శిక్షణ",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 60,
+      "income_below": 250000,
+      "requires_residency": true
+    },
+    "application_url": "https://mockgov.example/apply/scheme_01_te"
+  },
+  {
+    "id": "scheme_02_te",
+    "name": "రైతు సహాయం పథకం",
+    "description": "చిన్న రైతుల కోసం పంట, బియ్యం మరియు సాగు సహాయం",
+    "eligibility": {
+      "farmer": true,
+      "land_size_max": 5
+    },
+    "application_url": "https://mockgov.example/apply/scheme_02_te"
+  }
+]

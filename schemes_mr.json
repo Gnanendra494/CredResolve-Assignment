@@ -1,0 +1,24 @@
+[
+  {
+    "id": "scheme_01",
+    "name": "कुतूहल मातृशक्ति योजना",
+    "description": "गरीब कुटुंबातील मातांसाठी आर्थिक मदत आणि प्रशिक्षण",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 60,
+      "income_below": 250000,
+      "requires_residency": true
+    },
+    "application_url": "https://mockgov.example/apply/scheme_01"
+  },
+  {
+    "id": "scheme_02",
+    "name": "कृषी सहाय्य योजना",
+    "description": "लघु शेतकऱ्यांसाठी पेरणी आणि बीज सहाय्य",
+    "eligibility": {
+      "farmer": true,
+      "land_size_max": 5
+    },
+    "application_url": "https://mockgov.example/apply/scheme_02"
+  }
+]
