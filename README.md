@@ -49,7 +49,7 @@ The system follows a modular design to ensure scalability and ease of debugging:
 
 1.  **Clone and Enter Directory**
     ```bash
-    git clone <[your-repo-url](https://github.com/Gnanendra494/CredResolve-Assignment.git)>
+    git clone <https://github.com/Gnanendra494/CredResolve-Assignment.git>
     cd voice-agent-telugu
     ```
 
